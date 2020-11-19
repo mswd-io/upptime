@@ -19,9 +19,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /mswd-upptime
   logoUrl: https://mswd.io/wp-content/uploads/2019/03/mswd_logo.svg
-  name: MSWD Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Status page which uses **real-time** data.
+  name: MSWD Status
+  introTitle: "MSWD uptime monitor and status page."
+  introMessage: Status uses **real-time** data.
   navbar:
     - title: Status
       href: /
