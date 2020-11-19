@@ -1,7 +1,7 @@
 - url: https://feminem.org
-- status: down
+- status: up
 - code: 200
-- responseTime: 572
-- lastUpdated: 2020-11-19T06:51:28.869Z
+- responseTime: 784
+- lastUpdated: 2020-11-19T07:00:01.559Z
 - startTime: 2020-11-19T03:49:24.152Z
 - generator: Upptime <https://github.com/upptime/upptime>
