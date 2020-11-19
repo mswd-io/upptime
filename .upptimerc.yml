@@ -12,6 +12,22 @@ sites:
     url: https://coreem.net
   - name: FemInEM
     url: https://feminem.org
+  - name: NYIAC
+    url: https://nyiac.org
+  - name: LAC+USC EM
+    url: https://lacuscem.com
+  - name: SFP
+    url: https://sidefourproject.com
+  - name: BN/SEM
+    url: https://socialem.net
+  - name: Giantmecha
+    url: https://giantmecha.com
+  - name: A Chjàna
+    url: https://achjana.com
+  - name: A Ciambra
+    url: https://aciambra.com
+  - name: Stress Positions
+    url: https://stresspositions.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
