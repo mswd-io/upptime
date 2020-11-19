@@ -76,23 +76,23 @@
     "url": "https://achjana.com",
     "slug": "a-chjana",
     "status": "down",
-    "uptime": "-138.11",
-    "time": 0
+    "uptime": "14.38",
+    "time": 288
   },
   {
     "name": "A Ciambra",
     "url": "https://aciambra.com",
     "slug": "a-ciambra",
-    "status": "down",
-    "uptime": "-135.85",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 429
   },
   {
     "name": "Stress Positions",
     "url": "https://stresspositions.com",
     "slug": "stress-positions",
-    "status": "down",
-    "uptime": "-139.33",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 792
   }
 ]
