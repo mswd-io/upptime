@@ -3,96 +3,96 @@
     "name": "YourFleece",
     "url": "https://yourfleece.com",
     "slug": "your-fleece",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 252
+    "status": "down",
+    "uptime": "99.54",
+    "time": 248
   },
   {
     "name": "Kalon Studios",
     "url": "https://kalonstudios.com",
     "slug": "kalon-studios",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 242
+    "status": "down",
+    "uptime": "99.54",
+    "time": 237
   },
   {
     "name": "CoreEM",
     "url": "https://coreem.net",
     "slug": "core-em",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 550
+    "status": "down",
+    "uptime": "99.56",
+    "time": 547
   },
   {
     "name": "FemInEM",
     "url": "https://feminem.org",
     "slug": "fem-in-em",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 600
+    "status": "down",
+    "uptime": "99.59",
+    "time": 598
   },
   {
     "name": "NYIAC",
     "url": "https://nyiac.org",
     "slug": "nyiac",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1291
+    "status": "down",
+    "uptime": "99.56",
+    "time": 1283
   },
   {
     "name": "LAC+USC EM",
     "url": "https://lacuscem.com",
     "slug": "lac-usc-em",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 346
+    "status": "down",
+    "uptime": "99.59",
+    "time": 368
   },
   {
     "name": "SFP",
     "url": "https://sidefourproject.com",
     "slug": "sfp",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 4176
+    "status": "down",
+    "uptime": "99.71",
+    "time": 4094
   },
   {
     "name": "BN/SEM",
     "url": "https://socialem.net",
     "slug": "bn-sem",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1346
+    "status": "down",
+    "uptime": "99.75",
+    "time": 1219
   },
   {
     "name": "Giantmecha",
     "url": "https://giantmecha.com",
     "slug": "giantmecha",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 844
+    "status": "down",
+    "uptime": "99.78",
+    "time": 828
   },
   {
     "name": "A Chjana",
     "url": "https://achjana.com",
     "slug": "a-chjana",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 313
+    "status": "down",
+    "uptime": "99.79",
+    "time": 528
   },
   {
     "name": "A Ciambra",
     "url": "https://aciambra.com",
     "slug": "a-ciambra",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 556
+    "status": "down",
+    "uptime": "99.87",
+    "time": 816
   },
   {
     "name": "Stress Positions",
     "url": "https://stresspositions.com",
     "slug": "stress-positions",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1000
+    "status": "down",
+    "uptime": "99.92",
+    "time": 1151
   }
 ]
