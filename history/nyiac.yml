@@ -1,7 +1,7 @@
 - url: https://nyiac.org
-- status: down
+- status: up
 - code: 200
-- responseTime: 1250
-- lastUpdated: 2020-11-19T06:51:34.071Z
+- responseTime: 1397
+- lastUpdated: 2020-11-19T07:00:04.997Z
 - startTime: 2020-11-19T04:20:29.807Z
 - generator: Upptime <https://github.com/upptime/upptime>
