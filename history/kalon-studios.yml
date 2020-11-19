@@ -1,7 +1,7 @@
 - url: https://kalonstudios.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 179
-- lastUpdated: 2020-11-19T06:51:23.342Z
+- responseTime: 199
+- lastUpdated: 2020-11-19T06:59:56.900Z
 - startTime: 2020-11-19T03:49:22.681Z
 - generator: Upptime <https://github.com/upptime/upptime>
