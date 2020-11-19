@@ -5,7 +5,7 @@
     "slug": "your-fleece",
     "status": "up",
     "uptime": "100.00",
-    "time": 275
+    "time": 259
   },
   {
     "name": "Kalon Studios",
@@ -13,7 +13,7 @@
     "slug": "kalon-studios",
     "status": "up",
     "uptime": "100.00",
-    "time": 177
+    "time": 175
   },
   {
     "name": "CoreEM",
@@ -21,7 +21,7 @@
     "slug": "core-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 551
+    "time": 556
   },
   {
     "name": "FemInEM",
@@ -29,6 +29,6 @@
     "slug": "fem-in-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 593
+    "time": 610
   }
 ]
