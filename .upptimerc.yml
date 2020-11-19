@@ -36,7 +36,7 @@ status-website:
   # baseUrl: /mswd-upptime
   logoUrl: https://mswd.io/wp-content/uploads/2019/03/mswd_logo.svg
   name: MSWD Status
-  introTitle: "MSWD uptime monitor and status page."
+  introTitle: "**MSWD** uptime monitor and status page."
   introMessage: Status uses **real-time** data.
   navbar:
     - title: Status
