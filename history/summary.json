@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "YourFleece",
+    "url": "https://yourfleece.com",
+    "slug": "your-fleece",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 242
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Kalon Studios",
+    "url": "https://kalonstudios.com",
+    "slug": "kalon-studios",
     "status": "up",
     "uptime": "100.00",
-    "time": 140
+    "time": 149
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "CoreEM",
+    "url": "https://coreem.net",
+    "slug": "core-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 337
+    "time": 526
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "FemInEM",
+    "url": "https://feminem.org",
+    "slug": "fem-in-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 50
+    "time": 576
   }
 ]
