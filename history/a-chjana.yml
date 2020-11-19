@@ -1,6 +1,6 @@
 - url: https://achjana.com
-- status: down
-- code: 500
+- status: up
+- code: 200
 - responseTime: 864
 - lastUpdated: 2020-11-19T04:30:42.821Z
 - startTime: 2020-11-19T04:30:41.861Z
