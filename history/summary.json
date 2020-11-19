@@ -13,7 +13,7 @@
     "slug": "kalon-studios",
     "status": "up",
     "uptime": "100.00",
-    "time": 162
+    "time": 173
   },
   {
     "name": "CoreEM",
@@ -21,7 +21,7 @@
     "slug": "core-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 544
+    "time": 558
   },
   {
     "name": "FemInEM",
@@ -29,7 +29,7 @@
     "slug": "fem-in-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 603
+    "time": 611
   },
   {
     "name": "NYIAC",
@@ -37,7 +37,7 @@
     "slug": "nyiac",
     "status": "up",
     "uptime": "100.00",
-    "time": 1278
+    "time": 1356
   },
   {
     "name": "LAC+USC EM",
@@ -45,7 +45,7 @@
     "slug": "lac-usc-em",
     "status": "up",
     "uptime": "100.00",
-    "time": 209
+    "time": 297
   },
   {
     "name": "SFP",
@@ -53,7 +53,7 @@
     "slug": "sfp",
     "status": "up",
     "uptime": "100.00",
-    "time": 3914
+    "time": 3986
   },
   {
     "name": "BN/SEM",
@@ -61,7 +61,7 @@
     "slug": "bn-sem",
     "status": "up",
     "uptime": "100.00",
-    "time": 913
+    "time": 1878
   },
   {
     "name": "Giantmecha",
@@ -69,15 +69,15 @@
     "slug": "giantmecha",
     "status": "up",
     "uptime": "100.00",
-    "time": 1025
+    "time": 843
   },
   {
-    "name": "A Chjàna",
+    "name": "A Chj&agrave;na",
     "url": "https://achjana.com",
-    "slug": "a-chjana",
+    "slug": "a-chj-and-agrave-na",
     "status": "down",
-    "uptime": "14.38",
-    "time": 288
+    "uptime": "15.16",
+    "time": 1153
   },
   {
     "name": "A Ciambra",
@@ -85,7 +85,7 @@
     "slug": "a-ciambra",
     "status": "up",
     "uptime": "100.00",
-    "time": 429
+    "time": 497
   },
   {
     "name": "Stress Positions",
@@ -93,6 +93,6 @@
     "slug": "stress-positions",
     "status": "up",
     "uptime": "100.00",
-    "time": 792
+    "time": 1177
   }
 ]
