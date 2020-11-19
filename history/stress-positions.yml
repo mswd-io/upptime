@@ -1,7 +1,7 @@
 - url: https://stresspositions.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 2063
-- lastUpdated: 2020-11-19T06:52:09.191Z
+- responseTime: 783
+- lastUpdated: 2020-11-19T07:00:26.550Z
 - startTime: 2020-11-19T04:30:45.797Z
 - generator: Upptime <https://github.com/upptime/upptime>
