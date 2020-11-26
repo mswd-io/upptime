@@ -5,7 +5,7 @@
     "slug": "your-fleece",
     "status": "up",
     "uptime": "100.00%",
-    "time": 841
+    "time": 812
   },
   {
     "name": "Kalon Studios",
@@ -13,7 +13,7 @@
     "slug": "kalon-studios",
     "status": "up",
     "uptime": "100.00%",
-    "time": 220
+    "time": 218
   },
   {
     "name": "CoreEM",
@@ -21,7 +21,7 @@
     "slug": "core-em",
     "status": "up",
     "uptime": "100.00%",
-    "time": 554
+    "time": 556
   },
   {
     "name": "FemInEM",
@@ -29,7 +29,7 @@
     "slug": "fem-in-em",
     "status": "up",
     "uptime": "100.00%",
-    "time": 607
+    "time": 604
   },
   {
     "name": "NYIAC",
@@ -37,7 +37,7 @@
     "slug": "nyiac",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1310
+    "time": 1327
   },
   {
     "name": "LAC+USC EM",
@@ -53,7 +53,7 @@
     "slug": "sfp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3859
+    "time": 3845
   },
   {
     "name": "BN/SEM",
@@ -61,7 +61,7 @@
     "slug": "bn-sem",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1729
+    "time": 1787
   },
   {
     "name": "Giantmecha",
@@ -69,7 +69,7 @@
     "slug": "giantmecha",
     "status": "up",
     "uptime": "100.00%",
-    "time": 913
+    "time": 893
   },
   {
     "name": "A Chjana",
@@ -77,7 +77,7 @@
     "slug": "a-chjana",
     "status": "up",
     "uptime": "100.00%",
-    "time": 911
+    "time": 898
   },
   {
     "name": "A Ciambra",
@@ -85,7 +85,7 @@
     "slug": "a-ciambra",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1263
+    "time": 1208
   },
   {
     "name": "Stress Positions",
@@ -93,6 +93,6 @@
     "slug": "stress-positions",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1033
+    "time": 997
   }
 ]
