@@ -59,9 +59,9 @@
     "name": "BN/SEM",
     "url": "https://socialem.net",
     "slug": "bn-sem",
-    "status": "down",
-    "uptime": "98.72%",
-    "time": 1761
+    "status": "up",
+    "uptime": "94.38%",
+    "time": 1827
   },
   {
     "name": "Giantmecha",
@@ -76,7 +76,7 @@
     "url": "https://achjana.com",
     "slug": "a-chjana",
     "status": "down",
-    "uptime": "98.11%",
+    "uptime": "93.79%",
     "time": 900
   },
   {
