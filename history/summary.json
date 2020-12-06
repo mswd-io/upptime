@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 209,
-    "timeWeek": 316,
-    "timeMonth": 650,
-    "timeYear": 650
+    "time": 637,
+    "timeDay": 259,
+    "timeWeek": 332,
+    "timeMonth": 637,
+    "timeYear": 637
   },
   {
     "name": "Kalon Studios",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 185,
-    "timeWeek": 157,
-    "timeMonth": 199,
-    "timeYear": 199
+    "time": 198,
+    "timeDay": 172,
+    "timeWeek": 163,
+    "timeMonth": 198,
+    "timeYear": 198
   },
   {
     "name": "CoreEM",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 531,
-    "timeWeek": 631,
-    "timeMonth": 574,
-    "timeYear": 574
+    "time": 572,
+    "timeDay": 507,
+    "timeWeek": 638,
+    "timeMonth": 572,
+    "timeYear": 572
   },
   {
     "name": "FemInEM",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 550,
-    "timeWeek": 592,
-    "timeMonth": 598,
-    "timeYear": 598
+    "time": 594,
+    "timeDay": 477,
+    "timeWeek": 586,
+    "timeMonth": 594,
+    "timeYear": 594
   },
   {
     "name": "NYIAC",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1342,
-    "timeDay": 1316,
-    "timeWeek": 1363,
-    "timeMonth": 1342,
-    "timeYear": 1342
+    "time": 1341,
+    "timeDay": 1308,
+    "timeWeek": 1340,
+    "timeMonth": 1341,
+    "timeYear": 1341
   },
   {
     "name": "LAC+USC EM",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 446,
-    "timeWeek": 307,
-    "timeMonth": 400,
-    "timeYear": 400
+    "time": 405,
+    "timeDay": 503,
+    "timeWeek": 347,
+    "timeMonth": 405,
+    "timeYear": 405
   },
   {
     "name": "SFP",
@@ -105,27 +105,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4028,
-    "timeDay": 3643,
-    "timeWeek": 4492,
-    "timeMonth": 4028,
-    "timeYear": 4028
+    "time": 4003,
+    "timeDay": 3458,
+    "timeWeek": 4371,
+    "timeMonth": 4003,
+    "timeYear": 4003
   },
   {
     "name": "BN/SEM",
     "url": "https://socialem.net",
     "slug": "bn-sem",
     "status": "up",
-    "uptime": "95.23%",
+    "uptime": "95.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.21%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
-    "time": 2122,
-    "timeDay": 2374,
-    "timeWeek": 2916,
-    "timeMonth": 2122,
-    "timeYear": 2122
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.52%",
+    "time": 2131,
+    "timeDay": 2330,
+    "timeWeek": 2846,
+    "timeMonth": 2131,
+    "timeYear": 2131
   },
   {
     "name": "Giantmecha",
@@ -137,27 +137,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 1531,
-    "timeWeek": 1156,
-    "timeMonth": 958,
-    "timeYear": 958
+    "time": 946,
+    "timeDay": 684,
+    "timeWeek": 1094,
+    "timeMonth": 946,
+    "timeYear": 946
   },
   {
     "name": "A Chjana",
     "url": "https://achjana.com",
     "slug": "a-chjana",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.10%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "93.41%",
-    "time": 1088,
-    "timeDay": 2169,
-    "timeWeek": 963,
-    "timeMonth": 1088,
-    "timeYear": 1088
+    "uptimeMonth": "93.80%",
+    "uptimeYear": "93.80%",
+    "time": 1071,
+    "timeDay": 650,
+    "timeWeek": 940,
+    "timeMonth": 1071,
+    "timeYear": 1071
   },
   {
     "name": "A Ciambra",
@@ -169,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1532,
-    "timeDay": 618,
-    "timeWeek": 1553,
-    "timeMonth": 1532,
-    "timeYear": 1532
+    "time": 1566,
+    "timeDay": 2313,
+    "timeWeek": 1719,
+    "timeMonth": 1566,
+    "timeYear": 1566
   },
   {
     "name": "Stress Positions",
@@ -185,10 +185,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 1205,
-    "timeWeek": 1324,
-    "timeMonth": 1293,
-    "timeYear": 1293
+    "time": 1257,
+    "timeDay": 484,
+    "timeWeek": 1235,
+    "timeMonth": 1257,
+    "timeYear": 1257
   }
 ]
