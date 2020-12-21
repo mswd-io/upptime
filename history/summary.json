@@ -133,11 +133,11 @@
     "icon": "https://favicons.githubusercontent.com/socialem.net",
     "slug": "bn-sem",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.65%",
     "time": 2069,
     "timeDay": 2498,
     "timeWeek": 1660,
@@ -172,11 +172,11 @@
     "icon": "https://favicons.githubusercontent.com/achjana.com",
     "slug": "a-chjana",
     "status": "up",
-    "uptime": "79.61%",
+    "uptime": "79.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.61%",
+    "uptimeWeek": "73.08%",
     "uptimeMonth": "78.67%",
-    "uptimeYear": "79.61%",
+    "uptimeYear": "79.81%",
     "time": 1116,
     "timeDay": 2242,
     "timeWeek": 1412,
@@ -217,9 +217,9 @@
     "url": "https://stresspositions.com",
     "icon": "https://favicons.githubusercontent.com/stresspositions.com",
     "slug": "stress-positions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -228,6 +228,8 @@
     "timeWeek": 1399,
     "timeMonth": 1298,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   }
 ]
