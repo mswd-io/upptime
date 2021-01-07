@@ -117,10 +117,10 @@
     "url": "https://sidefourproject.com",
     "icon": "https://favicons.githubusercontent.com/sidefourproject.com",
     "slug": "sfp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3939,
@@ -128,7 +128,9 @@
     "timeWeek": 4063,
     "timeMonth": 3894,
     "timeYear": 3939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 2
+    }
   },
   {
     "name": "BN/SEM",
@@ -136,11 +138,11 @@
     "icon": "https://favicons.githubusercontent.com/socialem.net",
     "slug": "bn-sem",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 2294,
     "timeDay": 2694,
     "timeWeek": 2875,
@@ -175,11 +177,11 @@
     "icon": "https://favicons.githubusercontent.com/achjana.com",
     "slug": "a-chjana",
     "status": "up",
-    "uptime": "86.71%",
+    "uptime": "86.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.10%",
-    "uptimeYear": "86.71%",
+    "uptimeYear": "86.78%",
     "time": 1470,
     "timeDay": 2525,
     "timeWeek": 2726,
@@ -220,9 +222,9 @@
     "url": "https://stresspositions.com",
     "icon": "https://favicons.githubusercontent.com/stresspositions.com",
     "slug": "stress-positions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -232,6 +234,7 @@
     "timeMonth": 1634,
     "timeYear": 1467,
     "dailyMinutesDown": {
+      "2021-01-07": 0,
       "2020-12-21": 31
     }
   }
