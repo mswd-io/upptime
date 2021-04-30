@@ -86,19 +86,19 @@
     "url": "https://nyiac.org",
     "icon": "https://favicons.githubusercontent.com/nyiac.org",
     "slug": "nyiac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1401,
-    "timeDay": 10732,
-    "timeWeek": 3588,
-    "timeMonth": 1920,
-    "timeYear": 1401,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1402,
+    "timeDay": 7677,
+    "timeWeek": 3364,
+    "timeMonth": 1908,
+    "timeYear": 1402,
     "dailyMinutesDown": {
-      "2021-04-30": 0
+      "2021-04-30": 23
     }
   },
   {
