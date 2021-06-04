@@ -13,7 +13,7 @@
     "time": 324,
     "timeDay": 171,
     "timeWeek": 163,
-    "timeMonth": 195,
+    "timeMonth": 194,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2021-01-02": 4,
@@ -34,7 +34,7 @@
     "time": 226,
     "timeDay": 155,
     "timeWeek": 166,
-    "timeMonth": 180,
+    "timeMonth": 177,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 782,
     "timeDay": 577,
     "timeWeek": 598,
-    "timeMonth": 798,
+    "timeMonth": 786,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2021-03-06": 17
@@ -72,7 +72,7 @@
     "time": 805,
     "timeDay": 603,
     "timeWeek": 629,
-    "timeMonth": 633,
+    "timeMonth": 621,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2021-05-12": 438,
@@ -88,19 +88,19 @@
     "url": "https://nyiac.org",
     "icon": "https://favicons.githubusercontent.com/nyiac.org",
     "slug": "nyiac",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1354,
-    "timeDay": 5315,
-    "timeWeek": 1831,
-    "timeMonth": 1134,
-    "timeYear": 1354,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 1351,
+    "timeDay": 3798,
+    "timeWeek": 1712,
+    "timeMonth": 1117,
+    "timeYear": 1351,
     "dailyMinutesDown": {
-      "2021-06-04": 0,
+      "2021-06-04": 55,
       "2021-04-30": 23
     }
   },
@@ -118,7 +118,7 @@
     "time": 435,
     "timeDay": 231,
     "timeWeek": 313,
-    "timeMonth": 369,
+    "timeMonth": 372,
     "timeYear": 435,
     "dailyMinutesDown": {}
   },
@@ -136,7 +136,7 @@
     "time": 4006,
     "timeDay": 3764,
     "timeWeek": 3980,
-    "timeMonth": 4236,
+    "timeMonth": 4232,
     "timeYear": 4006,
     "dailyMinutesDown": {
       "2021-05-23": 29,
@@ -160,7 +160,7 @@
     "time": 2609,
     "timeDay": 2757,
     "timeWeek": 2745,
-    "timeMonth": 2728,
+    "timeMonth": 2719,
     "timeYear": 2609,
     "dailyMinutesDown": {
       "2021-06-04": 72,
@@ -187,7 +187,7 @@
     "time": 949,
     "timeDay": 999,
     "timeWeek": 848,
-    "timeMonth": 868,
+    "timeMonth": 866,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2021-05-23": 28,
@@ -209,7 +209,7 @@
     "time": 1971,
     "timeDay": 1579,
     "timeWeek": 1984,
-    "timeMonth": 2187,
+    "timeMonth": 2176,
     "timeYear": 1971,
     "dailyMinutesDown": {
       "2021-06-04": 71,
@@ -244,7 +244,7 @@
     "time": 2124,
     "timeDay": 2451,
     "timeWeek": 2352,
-    "timeMonth": 2261,
+    "timeMonth": 2252,
     "timeYear": 2124,
     "dailyMinutesDown": {
       "2021-06-04": 70,
@@ -269,7 +269,7 @@
     "time": 1888,
     "timeDay": 1824,
     "timeWeek": 1692,
-    "timeMonth": 2094,
+    "timeMonth": 2078,
     "timeYear": 1888,
     "dailyMinutesDown": {
       "2021-06-04": 70,
