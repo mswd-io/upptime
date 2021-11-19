@@ -37,7 +37,7 @@
     "timeDay": 119,
     "timeWeek": 165,
     "timeMonth": 151,
-    "timeYear": 204,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2021-06-08": 112
     }
@@ -57,7 +57,7 @@
     "timeDay": 538,
     "timeWeek": 554,
     "timeMonth": 619,
-    "timeYear": 745,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2021-11-17": 21,
       "2021-07-31": 17,
@@ -80,7 +80,7 @@
     "timeDay": 955,
     "timeWeek": 1032,
     "timeMonth": 1527,
-    "timeYear": 908,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2021-11-11": 12,
       "2021-09-25": 14,
@@ -110,7 +110,7 @@
     "timeDay": 398,
     "timeWeek": 259,
     "timeMonth": 280,
-    "timeYear": 1132,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2021-10-22": 20,
       "2021-09-03": 12,
@@ -157,7 +157,7 @@
     "timeDay": 4262,
     "timeWeek": 4149,
     "timeMonth": 3935,
-    "timeYear": 4025,
+    "timeYear": 4023,
     "dailyMinutesDown": {
       "2021-10-10": 24,
       "2021-10-08": 16,
@@ -200,7 +200,7 @@
     "timeDay": 3020,
     "timeWeek": 2571,
     "timeMonth": 2497,
-    "timeYear": 2891,
+    "timeYear": 2906,
     "dailyMinutesDown": {
       "2021-10-10": 23,
       "2021-10-08": 11,
@@ -253,7 +253,7 @@
     "timeDay": 1148,
     "timeWeek": 1083,
     "timeMonth": 1015,
-    "timeYear": 1053,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2021-10-08": 15,
       "2021-10-04": 11,
@@ -286,19 +286,19 @@
     "url": "https://achjana.com",
     "icon": "https://favicons.githubusercontent.com/achjana.com",
     "slug": "a-chjana",
-    "status": "up",
+    "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.05%",
     "time": 1883,
     "timeDay": 2788,
     "timeWeek": 1760,
     "timeMonth": 1369,
-    "timeYear": 1883,
+    "timeYear": 1895,
     "dailyMinutesDown": {
-      "2021-11-19": 19,
+      "2021-11-19": 20,
       "2021-10-14": 11,
       "2021-10-04": 10,
       "2021-09-24": 25,
@@ -359,7 +359,7 @@
     "timeDay": 617,
     "timeWeek": 1920,
     "timeMonth": 2121,
-    "timeYear": 2243,
+    "timeYear": 2257,
     "dailyMinutesDown": {
       "2021-10-10": 22,
       "2021-10-04": 10,
@@ -406,7 +406,7 @@
     "timeDay": 849,
     "timeWeek": 1602,
     "timeMonth": 1890,
-    "timeYear": 2035,
+    "timeYear": 2041,
     "dailyMinutesDown": {
       "2021-10-08": 14,
       "2021-10-05": 74,
