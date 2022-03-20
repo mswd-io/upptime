@@ -25,9 +25,9 @@
     "url": "https://kalonstudios.com",
     "icon": "https://favicons.githubusercontent.com/kalonstudios.com",
     "slug": "kalon-studios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 164,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2022-03-20": 0,
       "2021-12-20": 14,
       "2021-06-08": 112
     }
@@ -278,7 +279,7 @@
     "icon": "https://favicons.githubusercontent.com/achjana.com",
     "slug": "a-chjana",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
