@@ -16,8 +16,6 @@ sites:
     url: https://nyiac.org
   - name: LAC+USC EM
     url: https://lacuscem.com
-  - name: SFP
-    url: https://sidefourproject.com
   - name: BN/SEM
     url: https://socialem.net
   - name: Giantmecha
