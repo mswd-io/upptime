@@ -1,7 +1,7 @@
 url: https://yourfleece.com
-status: down
-code: 503
-responseTime: 8744
-lastUpdated: 2023-07-01T05:10:24.406Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2023-07-01T05:51:41.224Z
 startTime: Thu Nov 19 2020 03:49:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
