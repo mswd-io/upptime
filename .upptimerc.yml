@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   # - name: YourFleece
     # url: https://yourfleece.com
+  - name: YourCotton
+    url: https://cottonfabric.com
   - name: Kalon Studios
     url: https://kalonstudios.com
   - name: CoreEM
