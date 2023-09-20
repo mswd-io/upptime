@@ -16,7 +16,7 @@
     "timeMonth": 101,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-09-20": 0,
+      "2023-09-20": 1,
       "2023-08-24": 5,
       "2023-08-23": 3,
       "2023-08-22": 59,
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/laguscem.com.ico",
     "slug": "lag-usc-em",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 37
+      "2023-09-20": 38
     }
   },
   {
