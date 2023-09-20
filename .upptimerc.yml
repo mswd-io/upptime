@@ -4,8 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: YourFleece
-    url: https://yourfleece.com
+  # - name: YourFleece
+    # url: https://yourfleece.com
   - name: YourCotton
     url: https://cottonfabric.com
   - name: Kalon Studios
@@ -16,8 +16,8 @@ sites:
     url: https://feminem.org
   - name: NYIAC
     url: https://nyiac.org
-  - name: LAG+USC EM
-    url: https://laguscem.com
+  # - name: LAG+USC EM
+    # url: https://laguscem.com
   - name: BN/SEM
     url: https://socialem.net
   - name: Giantmecha
@@ -46,8 +46,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-user-agent: mswd-upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
