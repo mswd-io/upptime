@@ -4,8 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  # - name: YourFleece
-    # url: https://yourfleece.com
+  - name: YourFleece
+    url: https://yourfleece.com
   - name: YourCotton
     url: https://cottonfabric.com
   - name: Kalon Studios
