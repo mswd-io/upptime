@@ -14,8 +14,8 @@ sites:
     url: https://feminem.org
   - name: NYIAC
     url: https://nyiac.org
-  - name: LAC+USC EM
-    url: https://lacuscem.com
+  - name: LAG+USC EM
+    url: https://laguscem.com
   - name: BN/SEM
     url: https://socialem.net
   - name: Giantmecha
