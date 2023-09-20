@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/laguscem.com.ico",
     "slug": "lag-usc-em",
     "status": "down",
-    "uptime": "3.38%",
-    "uptimeDay": "3.38%",
-    "uptimeWeek": "3.38%",
-    "uptimeMonth": "3.38%",
-    "uptimeYear": "3.38%",
+    "uptime": "1.36%",
+    "uptimeDay": "1.36%",
+    "uptimeWeek": "1.36%",
+    "uptimeMonth": "1.36%",
+    "uptimeYear": "1.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 1
     }
   },
   {
