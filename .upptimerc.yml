@@ -1,6 +1,7 @@
 # Change these first
 owner: mswd-io # Your GitHub username
 repo: upptime # Your Github repository name
+user-agent: mswd-upptime
 
 # Add your sites here
 sites:
