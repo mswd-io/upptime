@@ -1,7 +1,7 @@
 url: https://coreem.net
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2024-08-13T23:07:59.245Z
+status: down
+code: 503
+responseTime: 172
+lastUpdated: 2024-08-14T04:25:41.710Z
 startTime: 2020-11-19T03:49:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
