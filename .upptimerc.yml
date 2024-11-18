@@ -15,18 +15,12 @@ sites:
     url: https://coreem.net
   - name: FemInEM
     url: https://feminem.org
-  - name: NYIAC
-    url: https://nyiac.org
   - name: LAG+USC EM
     url: https://laguscem.com
   # - name: BN/SEM
     # url: https://socialem.net
   - name: Giantmecha
     url: https://giantmecha.com
-  - name: A Chjana
-    url: https://achjana.com
-  - name: A Ciambra
-    url: https://aciambra.com
   - name: Stress Positions
     url: https://stresspositions.com
 
