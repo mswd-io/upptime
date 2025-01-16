@@ -13,8 +13,6 @@ sites:
     url: https://kalonstudios.com
   - name: CoreEM
     url: https://coreem.net
-  - name: FemInEM
-    url: https://feminem.org
   - name: LAG+USC EM
     url: https://laguscem.com
   # - name: BN/SEM
