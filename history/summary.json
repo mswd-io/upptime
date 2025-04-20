@@ -25,9 +25,9 @@
     "url": "https://cottonfabric.com",
     "icon": "https://icons.duckduckgo.com/ip3/cottonfabric.com.ico",
     "slug": "your-cotton",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 205,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2025-04-20": 0,
       "2025-03-31": 11,
       "2024-08-09": 40,
       "2024-05-24": 10
@@ -128,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/laguscem.com.ico",
     "slug": "lag-usc-em",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
