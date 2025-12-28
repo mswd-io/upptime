@@ -7,20 +7,34 @@ user-agent: mswd-upptime
 sites:
   - name: YourFleece
     url: https://yourfleece.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   - name: YourCotton
     url: https://cottonfabric.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   - name: Kalon Studios
     url: https://kalonstudios.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   - name: CoreEM
     url: https://coreem.net
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   - name: LAG+USC EM
     url: https://laguscem.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   # - name: BN/SEM
     # url: https://socialem.net
   - name: Giantmecha
     url: https://giantmecha.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
   - name: Stress Positions
     url: https://stresspositions.com
+    headers:
+    - "X-MSWD-AUTH: $MSWD_KEY"
 
 assignees: # Users to assign downtime issues (optional)
   - shamoon
