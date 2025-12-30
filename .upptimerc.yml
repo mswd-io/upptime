@@ -9,32 +9,39 @@ sites:
     url: https://yourfleece.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   - name: YourCotton
     url: https://cottonfabric.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   - name: Kalon Studios
     url: https://kalonstudios.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   - name: CoreEM
     url: https://coreem.net
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   - name: LAG+USC EM
     url: https://laguscem.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   # - name: BN/SEM
     # url: https://socialem.net
   - name: Giantmecha
     url: https://giantmecha.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
   - name: Stress Positions
     url: https://stresspositions.com
     headers:
     - "x-mswd-auth: $MSWD_KEY"
+    - "Accept: text/html"
 
 assignees: # Users to assign downtime issues (optional)
   - shamoon
