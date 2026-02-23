@@ -90,12 +90,12 @@
     "url": "https://cottonfabric.com",
     "icon": "https://icons.duckduckgo.com/ip3/cottonfabric.com.ico",
     "slug": "your-cotton",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.14%",
+    "uptimeDay": "92.13%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 232,
     "timeDay": 67,
     "timeWeek": 143,
@@ -166,8 +166,7 @@
       "2025-08-12": 29,
       "2025-08-11": 44,
       "2025-08-10": 30,
-      "2025-08-01": 12,
-      "2025-07-27": 53
+      "2025-08-01": 12
     }
   },
   {
