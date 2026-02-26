@@ -4,16 +4,16 @@
     "url": "https://yourfleece.com",
     "icon": "https://icons.duckduckgo.com/ip3/yourfleece.com.ico",
     "slug": "your-fleece",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "76.83%",
+    "uptimeDay": "76.82%",
     "uptimeWeek": "92.92%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 246,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 184,
+    "timeDay": 186,
+    "timeWeek": 174,
+    "timeMonth": 186,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2026-02-26": 268,
@@ -81,8 +81,7 @@
       "2025-08-05": 144,
       "2025-08-03": 6,
       "2025-08-02": 142,
-      "2025-08-01": 183,
-      "2025-07-27": 53
+      "2025-08-01": 183
     }
   },
   {
