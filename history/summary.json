@@ -216,17 +216,17 @@
     "url": "https://laguscem.com",
     "icon": "https://icons.duckduckgo.com/ip3/laguscem.com.ico",
     "slug": "lag-usc-em",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
-    "time": 418,
-    "timeDay": 199,
-    "timeWeek": 305,
-    "timeMonth": 344,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.53%",
+    "time": 438,
+    "timeDay": 7211,
+    "timeWeek": 2045,
+    "timeMonth": 778,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-06-29": 15,
       "2025-07-11": 12,
@@ -293,7 +293,7 @@
       "2025-12-28": 23,
       "2025-12-29": 15,
       "2026-03-11": 27,
-      "2026-06-18": 0
+      "2026-06-18": 139
     }
   },
   {
