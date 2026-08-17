@@ -289,17 +289,17 @@
     "url": "https://giantmecha.com",
     "icon": "https://icons.duckduckgo.com/ip3/giantmecha.com.ico",
     "slug": "giantmecha",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.94%",
-    "time": 630,
-    "timeDay": 548,
-    "timeWeek": 487,
-    "timeMonth": 568,
-    "timeYear": 643,
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.93%",
+    "time": 629,
+    "timeDay": 472,
+    "timeWeek": 468,
+    "timeMonth": 561,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-08-23": 23,
       "2025-09-10": 41,
@@ -309,7 +309,7 @@
       "2026-07-27": 52,
       "2026-07-30": 92,
       "2026-08-16": 26,
-      "2026-08-17": 5
+      "2026-08-17": 44
     }
   },
   {
@@ -317,16 +317,16 @@
     "url": "https://stresspositions.com",
     "icon": "https://icons.duckduckgo.com/ip3/stresspositions.com.ico",
     "slug": "stress-positions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.95%",
-    "time": 1634,
-    "timeDay": 2209,
-    "timeWeek": 1757,
-    "timeMonth": 1854,
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.94%",
+    "time": 1635,
+    "timeDay": 2062,
+    "timeWeek": 1758,
+    "timeMonth": 1852,
     "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-08-23": 23,
@@ -337,7 +337,7 @@
       "2026-07-27": 47,
       "2026-07-30": 87,
       "2026-08-16": 21,
-      "2026-08-17": 0
+      "2026-08-17": 39
     }
   }
 ]
