@@ -13,7 +13,7 @@
     "time": 225,
     "timeDay": 147,
     "timeWeek": 145,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-09-26": 48,
@@ -86,7 +86,7 @@
     "time": 215,
     "timeDay": 97,
     "timeWeek": 128,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2025-09-26": 48,
@@ -163,8 +163,8 @@
     "time": 569,
     "timeDay": 136,
     "timeWeek": 127,
-    "timeMonth": 147,
-    "timeYear": 579,
+    "timeMonth": 149,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-10-02": 12,
       "2025-10-28": 24,
@@ -187,8 +187,8 @@
     "time": 280,
     "timeDay": 114,
     "timeWeek": 181,
-    "timeMonth": 199,
-    "timeYear": 209,
+    "timeMonth": 202,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2026-03-10": 60
@@ -208,7 +208,7 @@
     "time": 405,
     "timeDay": 423,
     "timeWeek": 378,
-    "timeMonth": 351,
+    "timeMonth": 348,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-09-26": 48,
@@ -269,17 +269,17 @@
     "url": "https://giantmecha.com",
     "icon": "https://icons.duckduckgo.com/ip3/giantmecha.com.ico",
     "slug": "giantmecha",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "99.80%",
-    "time": 621,
-    "timeDay": 342,
-    "timeWeek": 435,
-    "timeMonth": 528,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "99.77%",
+    "time": 620,
+    "timeDay": 373,
+    "timeWeek": 431,
+    "timeMonth": 531,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-09-30": 24,
       "2025-12-26": 15,
@@ -293,7 +293,8 @@
       "2026-09-09": 266,
       "2026-09-13": 127,
       "2026-09-16": 283,
-      "2026-09-24": 5
+      "2026-09-25": 46,
+      "2026-09-24": 84
     }
   },
   {
@@ -301,16 +302,16 @@
     "url": "https://stresspositions.com",
     "icon": "https://icons.duckduckgo.com/ip3/stresspositions.com.ico",
     "slug": "stress-positions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "99.81%",
-    "time": 1631,
-    "timeDay": 1719,
-    "timeWeek": 1865,
-    "timeMonth": 1954,
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.78%",
+    "time": 1630,
+    "timeDay": 1807,
+    "timeWeek": 1868,
+    "timeMonth": 1955,
     "timeYear": 1682,
     "dailyMinutesDown": {
       "2025-09-30": 24,
@@ -325,7 +326,8 @@
       "2026-09-09": 261,
       "2026-09-13": 122,
       "2026-09-16": 278,
-      "2026-09-24": 0
+      "2026-09-25": 46,
+      "2026-09-24": 79
     }
   }
 ]
