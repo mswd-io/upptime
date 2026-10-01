@@ -264,10 +264,10 @@
     "slug": "giantmecha",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.75%",
     "time": 619,
     "timeDay": 0,
     "timeWeek": 484,
@@ -287,7 +287,7 @@
       "2026-09-16": 283,
       "2026-09-25": 46,
       "2026-09-24": 84,
-      "2026-10-01": 5
+      "2026-10-01": 156
     }
   },
   {
@@ -296,11 +296,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stresspositions.com.ico",
     "slug": "stress-positions",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.87%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "99.76%",
     "time": 1635,
     "timeDay": 0,
     "timeWeek": 1951,
@@ -320,7 +320,7 @@
       "2026-09-16": 278,
       "2026-09-25": 46,
       "2026-09-24": 79,
-      "2026-10-01": 1
+      "2026-10-01": 152
     }
   }
 ]
