@@ -135,7 +135,7 @@
     "timeDay": 104,
     "timeWeek": 106,
     "timeMonth": 118,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-12-18": 75,
       "2026-03-18": 41,
@@ -173,7 +173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 385,
     "timeDay": 480,
     "timeWeek": 422,
@@ -223,17 +223,17 @@
     "url": "https://giantmecha.com",
     "icon": "https://icons.duckduckgo.com/ip3/giantmecha.com.ico",
     "slug": "giantmecha",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.73%",
     "time": 618,
     "timeDay": 513,
     "timeWeek": 478,
     "timeMonth": 481,
-    "timeYear": 618,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2025-12-26": 15,
       "2026-07-25": 38,
@@ -248,7 +248,8 @@
       "2026-09-16": 283,
       "2026-09-25": 46,
       "2026-09-24": 84,
-      "2026-10-01": 235
+      "2026-10-01": 235,
+      "2026-11-14": 5
     }
   },
   {
@@ -256,17 +257,17 @@
     "url": "https://stresspositions.com",
     "icon": "https://icons.duckduckgo.com/ip3/stresspositions.com.ico",
     "slug": "stress-positions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1695,
+    "time": 1697,
     "timeDay": 1797,
     "timeWeek": 1908,
     "timeMonth": 1828,
-    "timeYear": 1717,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2025-12-26": 14,
       "2026-07-25": 33,
@@ -281,7 +282,8 @@
       "2026-09-16": 278,
       "2026-09-25": 46,
       "2026-09-24": 79,
-      "2026-10-01": 230
+      "2026-10-01": 230,
+      "2026-11-14": 1
     }
   }
 ]
