@@ -11,9 +11,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.47%",
     "time": 164,
-    "timeDay": 100,
-    "timeWeek": 142,
-    "timeMonth": 141,
+    "timeDay": 136,
+    "timeWeek": 147,
+    "timeMonth": 140,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-11-22": 13,
@@ -66,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 225,
-    "timeDay": 323,
-    "timeWeek": 376,
-    "timeMonth": 441,
+    "timeDay": 328,
+    "timeWeek": 350,
+    "timeMonth": 438,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2025-11-22": 13,
@@ -124,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 528,
-    "timeDay": 74,
-    "timeWeek": 89,
-    "timeMonth": 113,
-    "timeYear": 522,
+    "timeDay": 56,
+    "timeWeek": 82,
+    "timeMonth": 112,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2025-12-18": 75,
       "2026-03-18": 41,
@@ -146,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 115,
-    "timeWeek": 136,
-    "timeMonth": 297,
+    "timeDay": 204,
+    "timeWeek": 147,
+    "timeMonth": 294,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-03-10": 60
@@ -166,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 386,
-    "timeDay": 327,
-    "timeWeek": 388,
-    "timeMonth": 417,
+    "timeDay": 370,
+    "timeWeek": 372,
+    "timeMonth": 416,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2025-11-22": 13,
@@ -211,14 +211,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/giantmecha.com.ico",
     "slug": "giantmecha",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "66.63%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.85%",
+    "uptimeDay": "52.07%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.57%",
     "time": 615,
-    "timeDay": 357,
-    "timeWeek": 435,
+    "timeDay": 344,
+    "timeWeek": 423,
     "timeMonth": 468,
     "timeYear": 616,
     "dailyMinutesDown": {
@@ -239,7 +239,7 @@
       "2026-11-15": 135,
       "2026-11-14": 40,
       "2026-11-20": 475,
-      "2026-11-21": 5
+      "2026-11-21": 215
     }
   },
   {
@@ -248,14 +248,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/stresspositions.com.ico",
     "slug": "stress-positions",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "67.31%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "99.62%",
+    "uptime": "99.85%",
+    "uptimeDay": "52.74%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "99.58%",
     "time": 1702,
-    "timeDay": 1551,
-    "timeWeek": 1720,
+    "timeDay": 1781,
+    "timeWeek": 1709,
     "timeMonth": 1777,
     "timeYear": 1725,
     "dailyMinutesDown": {
@@ -276,7 +276,7 @@
       "2026-11-15": 135,
       "2026-11-14": 35,
       "2026-11-20": 470,
-      "2026-11-21": 1
+      "2026-11-21": 210
     }
   }
 ]
