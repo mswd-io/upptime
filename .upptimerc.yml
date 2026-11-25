@@ -7,6 +7,8 @@ user-agent: mswd-upptime
 sites:
   - name: YourFleece
     url: https://yourfleece.com
+    # A WebShield verification page can return 200, so require storefront content.
+    __dangerous__body_down_if_text_missing: "<title>Fleece Fabric | Highest Quality Fleece At Affordable Prices</title>"
     headers:
     - "x-mswd-auth: $MSWD_KEY"
     - "Accept: text/html"
